@@ -1,1 +1,2 @@
 agregando nuevo archivo a git
+Vamos a seguir agregando inforamacion de como funciona git
