@@ -27,7 +27,6 @@ git config --global user.email "TU_CORREO"
 git init
 ```
 
-![Ejemplo git init](https://user-images.githubusercontent.com/99184393/235310078-4c8a3c8e-9e4f-4b2f-9c7e-1c4b2e3e1f0a.png)
 
 ---
 
@@ -42,7 +41,6 @@ git commit -m "Primer commit del proyecto"
 
 ## 🔷 4. Crear un repositorio en GitHub
 
-![Crear repo](https://user-images.githubusercontent.com/99184393/235310210-1f4c3d8e-8e4b-4c7b-9c3b-2c4b1e1f0a7c.png)
 
 GitHub te dará una URL como:
 
